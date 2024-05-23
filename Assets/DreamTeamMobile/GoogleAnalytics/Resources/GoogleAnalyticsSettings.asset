@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06476c24fc073bc4c9fc3106b957849b, type: 3}
   m_Name: GoogleAnalyticsSettings
   m_EditorClassIdentifier: 
-  GA4MeasurementId: 
-  GA4StreamApiSecret: 
+  GA4MeasurementId: G-F0JJ5LHNQM
+  GA4StreamApiSecret: FwdqY2YWReie4uct6KcViA
   DefaultEngagementTimeInSec: 100
   TrackSceneChangeEvents: 1
   TrackApplicationErrors: 0
